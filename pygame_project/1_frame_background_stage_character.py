@@ -2,6 +2,7 @@ from email.mime import image
 import pygame
 import os
 ##################################################################
+# git branch 테스틑
 # 기본 초기화 (반드시 해야 하는 것들)
 pygame.init() # 초기화
 
